@@ -21,7 +21,7 @@ a{
 }
 .fooditem {
     border: 1px solid rgb(116, 82, 38);
-    width: 220px;
+    width: 190px;
     padding: 20px;
     height: 170px;
     background-color:blanchedalmond;
@@ -30,8 +30,8 @@ a{
 img {
     width: 200px;
     height: 120px;
-    border-radius: 5px;}
-
+    border-radius: 5px;
+}
 .foodlist {
     display: flex;
     gap: 20px;
